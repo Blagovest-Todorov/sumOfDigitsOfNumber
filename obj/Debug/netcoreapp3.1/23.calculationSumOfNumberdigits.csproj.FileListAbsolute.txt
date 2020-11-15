@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.exe
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.deps.json
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.dll
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\bin\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.pdb
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.dll
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.pdb
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.genruntimeconfig.cache
+C:\Users\Bla\source\repos\DataTypes\23.calculationSumOfNumberdigits\obj\Debug\netcoreapp3.1\23.calculationSumOfNumberdigits.csprojAssemblyReference.cache
